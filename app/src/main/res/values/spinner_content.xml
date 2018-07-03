@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>Car</item>
+        <item>Bus</item>
+        <item>Train</item>
+        <item>Tram</item>
+    </string-array>
+</resources>
